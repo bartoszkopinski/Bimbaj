@@ -1,0 +1,27 @@
+PODS:
+  - STHTTPRequest (1.0.2)
+  - SwiftyJSON (2.2.0)
+
+DEPENDENCIES:
+  - STHTTPRequest (from `git@github.com:nst/STHTTPRequest.git`)
+  - SwiftyJSON (from `git@github.com:SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  STHTTPRequest:
+    :git: git@github.com:nst/STHTTPRequest.git
+  SwiftyJSON:
+    :git: git@github.com:SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  STHTTPRequest:
+    :commit: 1c3434aa145f5916a79427ffeb6c5577deadfd26
+    :git: git@github.com:nst/STHTTPRequest.git
+  SwiftyJSON:
+    :commit: ed1521cade399598c24639b29c818bda27b2d3a0
+    :git: git@github.com:SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  STHTTPRequest: f4ca4e3ca31ebd9b54c134aa721ddd1711f1089d
+  SwiftyJSON: 0b3e6c07af17ff745e77e8e9984097b55c956e5c
+
+COCOAPODS: 0.37.0
